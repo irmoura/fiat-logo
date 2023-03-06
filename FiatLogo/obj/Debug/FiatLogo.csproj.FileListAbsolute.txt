@@ -1,0 +1,10 @@
+C:\Users\corag\source\repos\FiatLogo\bin\Debug\FiatLogo.exe.config
+C:\Users\corag\source\repos\FiatLogo\bin\Debug\FiatLogo.exe
+C:\Users\corag\source\repos\FiatLogo\bin\Debug\FiatLogo.pdb
+C:\Users\corag\source\repos\FiatLogo\obj\Debug\FiatLogo.csproj.AssemblyReference.cache
+C:\Users\corag\source\repos\FiatLogo\obj\Debug\FiatLogo.Form1.resources
+C:\Users\corag\source\repos\FiatLogo\obj\Debug\FiatLogo.Properties.Resources.resources
+C:\Users\corag\source\repos\FiatLogo\obj\Debug\FiatLogo.csproj.GenerateResource.cache
+C:\Users\corag\source\repos\FiatLogo\obj\Debug\FiatLogo.csproj.CoreCompileInputs.cache
+C:\Users\corag\source\repos\FiatLogo\obj\Debug\FiatLogo.exe
+C:\Users\corag\source\repos\FiatLogo\obj\Debug\FiatLogo.pdb
